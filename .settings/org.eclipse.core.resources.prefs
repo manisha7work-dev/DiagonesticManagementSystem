@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//WebContent/analyst_register.jsp=UTF-8
+encoding//WebContent/book_appointment.jsp=UTF-8
+encoding//WebContent/dashboard_patient.jsp=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//WebContent/manage_analysts.jsp=UTF-8
+encoding//WebContent/manage_appointments.jsp=UTF-8
+encoding//WebContent/manage_patients.jsp=UTF-8
+encoding//WebContent/patient_appointments.jsp=UTF-8
+encoding//WebContent/patient_login.jsp=UTF-8
+encoding//WebContent/patient_register.jsp=UTF-8
+encoding//WebContent/upload_report.jsp=UTF-8
+encoding//WebContent/view_appointments.jsp=UTF-8
+encoding//WebContent/view_payments.jsp=UTF-8
+encoding//WebContent/view_reports.jsp=UTF-8
+encoding/<project>=UTF-8
