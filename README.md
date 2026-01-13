@@ -118,6 +118,3 @@ ALTER TABLE reports ADD COLUMN is_shared BOOLEAN DEFAULT FALSE;
 
 
 
-SELECT * FROM appointments;
-
-SELECT * FROM analysts;
