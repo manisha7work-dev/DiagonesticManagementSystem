@@ -19,30 +19,45 @@
 Main modules
 
 Patient — register/login, book tests, make payments, view reports
+
 Analyst — view assigned tests, update status, upload reports
+
 Admin — manage patients, analysts, tests, view payments, approve appointments
+
 
 -----------
 📁 Project Structure
 Below is the folder layout for the Diagnostic Management System project.
+
 This helps contributors understand where code, servlets, JSPs, and resources are located.
+
 
 DiagnosticManagementSystem/
 ├── src/
 │   ├── com.dms.controller/        # Controllers (intermediate request-handling logic)
+
 │   ├── com.dms.servlet/           # Actual Servlets (HttpServlet implementations)
+
 │   ├── com.dms.dao/               # DAO layer (Database Access)
+
 │   ├── com.dms.model/             # POJOs / Model classes
+
 │   ├── com.dms.util/              # Utility classes (e.g., HashUtil)
+
 │
 ├── WebContent/
 │   ├── css/                       # Stylesheets
+
 │   ├── components/                # JSP fragments (header.jspf, footer.jspf, back_button.jspf)
+
 │   ├── reports/                   # Uploaded reports (static files)
+
 │   ├── *.jsp                      # JSP pages (Views)
+
 │   └── WEB-INF/
 │       └── web.xml                # Deployment descriptor
 │
+
 ├── .gitignore
 └── README.md
 
